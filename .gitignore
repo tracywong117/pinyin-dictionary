@@ -1,0 +1,23 @@
+# Build products and local tools
+.build/
+.swiftpm/
+dist/
+DerivedData/
+*.app/
+*.dSYM/
+*.xcarchive/
+
+# macOS / Xcode user state
+.DS_Store
+xcuserdata/
+*.xcuserstate
+
+# Local credentials and editor state
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Intermediate icon sizes; keep the source drawing, PNG and ICNS
+Assets/AppIcon.iconset/

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "file": "cccanto-webdist.txt",
+      "version": "2017-02-02",
+      "source": "https://cantonese.org/download.html",
+      "license": "CC-BY-SA-3.0",
+      "sha256": "95392fbfe3c1690dc5b1460ad29ee451d17cad75935c00d5af2d18913f9bd940",
+      "bytes": 3446667
+    },
+    {
+      "file": "jyut6ping3.words.dict.yaml",
+      "version": "2026.08.10",
+      "source": "https://github.com/CanCLID/rime-cantonese-upstream",
+      "license": "CC-BY-4.0",
+      "sha256": "54d174ad2bb997e4a678b7b076b84e4dc5914481b32467cdea3b43e88b7d5474",
+      "bytes": 2630257
+    }
+  ]
+}

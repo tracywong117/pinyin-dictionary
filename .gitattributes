@@ -1,0 +1,12 @@
+* text=auto
+*.swift text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+Sources/PinyinDictionary/Resources/cccanto-webdist.txt -text linguist-vendored
+Sources/PinyinDictionary/Resources/jyut6ping3.words.dict.yaml -text linguist-vendored
+Sources/PinyinDictionary/Resources/dictionary-index.plist binary linguist-generated
+Sources/PinyinDictionary/Resources/ThirdPartyNotices.md linguist-generated
+Sources/PinyinDictionary/Resources/SoftwareLicense.txt linguist-generated
+
+*.png binary
+*.icns binary
